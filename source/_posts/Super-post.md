@@ -7,4 +7,4 @@ tags:
   - программирование
 ---
 
-![](Super-post/natacomp290125.jpg)
+![](/Super-post/natacomp290125.jpg)

@@ -5,7 +5,6 @@ categories:
   - Технологии
 tags:
   - программирование
-  - Hexo
 ---
 
 ![](Super-post/natacomp290125.jpg)

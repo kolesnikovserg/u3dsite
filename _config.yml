@@ -101,7 +101,7 @@ marked: true
 
 math:
   enable: true
-  engine: "mathjax"
+  engine: "katex"
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

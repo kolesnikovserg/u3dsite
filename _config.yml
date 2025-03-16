@@ -68,6 +68,8 @@ index_generator:
 default_category: Просто так
 category_map:
   Размышления : /think-about
+  Просто так : /as-is
+  Бактерии : /bacilla
 tag_map:
 
 # Metadata elements
